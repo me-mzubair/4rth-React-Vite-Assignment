@@ -1,7 +1,7 @@
 import './App.scss'
 import '../node_modules/bootstrap/dist/js/bootstrap.bundle'
 import Routers from './pages/Routes'
-import ScreenLoader from './components/Misc/screenLoader'
+import ScreenLoader from './components/Misc/ScreenLoader'
 import { useAuth } from './context/Auth'
 import { ConfigProvider } from 'antd'
 
